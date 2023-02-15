@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.exe.config
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.exe
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.pdb
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.exe
+C:\Users\USER\Desktop\Project30\Third Week\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.pdb
