@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe.config
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.pdb
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.exe
+C:\Users\USER\Desktop\Project30\Third Week\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.pdb
